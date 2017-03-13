@@ -479,3 +479,22 @@ LogInit: Object subsystem initialized
 [2017.03.13-18.01.07:428][990]SourceControl: Info   (use "git add <file>..." to include in what will be committed)
 [2017.03.13-18.01.07:428][990]SourceControl: Info 	BoulderGame/
 [2017.03.13-18.01.07:428][990]SourceControl: Info nothing added to commit but untracked files present (use "git add" to track)
+[2017.03.13-18.48.54:533][604]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.13-18.48.54:594][604]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2017.03.13-18.48.54:605][604]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.13-18.48.54:718][604]PIE: New page: PIE session: RollingBPExampleMap (Mar 13, 2017, 8:48:54 PM)
+[2017.03.13-18.48.54:783][604]LogPlayLevel: Creating play world package: /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2017.03.13-18.48.55:207][604]LogPlayLevel: PIE: StaticDuplicateObject took: (0.423732s)
+[2017.03.13-18.48.55:209][604]LogAIModule: Creating AISystem for world RollingBPExampleMap
+[2017.03.13-18.48.55:209][604]LogPlayLevel: PIE: World Init took: (0.001576s)
+[2017.03.13-18.48.55:219][604]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap to /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap (0.490772s)
+[2017.03.13-18.48.55:291][604]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.13-18.48.55:308][604]LogInit: FAudioDevice initialized.
+[2017.03.13-18.48.55:471][604]LogLoad: Game class is 'RollingGameMode_C'
+[2017.03.13-18.48.55:595][604]LogWorld: Bringing World /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap up for play (max tick rate 0) at 2017.03.13-19.48.55
+[2017.03.13-18.48.55:763][604]LogWorld: Bringing up level for play took: 0.172680
+[2017.03.13-18.48.57:960][604]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0013 seconds. Added 11 classes and 0 folders.
+[2017.03.13-18.48.58:040][604]PIE: Info Play in editor start time for /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap 4.272
+[2017.03.13-18.48.58:040][604]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2017.03.13-18.49.16:639][440]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2017.03.13-18.49.16:806][440]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
