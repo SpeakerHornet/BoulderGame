@@ -498,3 +498,12 @@ LogInit: Object subsystem initialized
 [2017.03.13-18.48.58:040][604]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
 [2017.03.13-18.49.16:639][440]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
 [2017.03.13-18.49.16:806][440]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2017.03.13-20.14.11:327][779]Cmd: QUIT_EDITOR
+[2017.03.13-20.14.11:819][779]LogExit: Preparing to exit.
+[2017.03.13-20.14.12:902][779]LogExit: Editor shut down
+[2017.03.13-20.14.12:902][779]LogExit: Transaction tracking system shut down
+[2017.03.13-20.14.14:651][779]LogObj: Freed 0b from 0 cluster array pools.
+[2017.03.13-20.14.14:651][779]LogExit: Object subsystem successfully closed.
+[2017.03.13-20.14.14:776][779]LogD3D11RHI: Shutdown
+[2017.03.13-20.14.14:777][779]LogD3D11RHI: CleanupD3DDevice
+[2017.03.13-20.14.14:939][779]LogD3D11RHI: ~FD3D11DynamicRHI
